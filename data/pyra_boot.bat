@@ -14,7 +14,7 @@ timeout /t 1 >nul
 echo [SYSTEM] Acesso Garantido. Conectando uplink com equipe...
 timeout /t 1 >nul
 echo.
-echo [COMANDO] INJETANDO COORDENADAS -- LAT: -20.58311 -- LON: -44.30004
+echo [COMANDO] INJETANDO COORDENADAS -- LAT: -6.90572 -- LON: -43.70856
 timeout /t 2 >nul
 echo.
 echo [SYSTEM] Sincronizando ERP de missao:
